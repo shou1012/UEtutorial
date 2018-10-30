@@ -1,0 +1,9 @@
+"/home/sdjikken/workspace/MyProject/Intermediate/Build/Linux/B4D820EA/UE4Editor/Development/MyProject/MyPawn.cpp.o"
+"/home/sdjikken/workspace/MyProject/Intermediate/Build/Linux/B4D820EA/UE4Editor/Development/MyProject/MyProject.cpp.o"
+"/home/sdjikken/workspace/MyProject/Intermediate/Build/Linux/B4D820EA/UE4Editor/Development/MyProject/MyPawn.gen.cpp.o"
+"/home/sdjikken/workspace/MyProject/Intermediate/Build/Linux/B4D820EA/UE4Editor/Development/MyProject/MyProject.init.gen.cpp.o"
+ -soname="libUE4Editor-MyProject-8539.so"
+ -rpath-link="/home/sdjikken/workspace/MyProject/Binaries/Linux"
+ -L"/home/sdjikken/GitHub/UnrealEngine/Engine/Binaries/Linux"
+ --start-group
+ --end-group

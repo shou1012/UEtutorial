@@ -1,0 +1,3 @@
+/home/sdjikken/workspace/MyProject/Source/MyProject/MyProject.Build.cs
+/home/sdjikken/workspace/MyProject/Source/MyProject.Target.cs
+/home/sdjikken/workspace/MyProject/Source/MyProjectEditor.Target.cs

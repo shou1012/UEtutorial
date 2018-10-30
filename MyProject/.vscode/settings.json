@@ -1,0 +1,9 @@
+{
+	"files.exclude": {
+		"/home/sdjikken/workspace/MyProject/.vscode": true,
+		"/home/sdjikken/workspace/MyProject/Content": true,
+		"/home/sdjikken/workspace/MyProject/DerivedDataCache": true,
+		"/home/sdjikken/workspace/MyProject/Intermediate": true,
+		"/home/sdjikken/workspace/MyProject/Saved": true
+	}
+}
